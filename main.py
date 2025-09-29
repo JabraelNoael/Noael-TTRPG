@@ -1,4 +1,4 @@
-from noaelTTRPG import *
+from noaelttrpg import *
 
 Michael: Player = Player(age=18,name="Michael")
 
