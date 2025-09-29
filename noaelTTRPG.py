@@ -36,7 +36,6 @@ class Attributes:
         self.bludgeon: float = 5
         self.pierce: float = 5
         self.slash: float = 5
-        self
         ### Pen
         self.physicalPenetration: float = 0
         self.bludgeonPenetration: float = 0
